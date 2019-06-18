@@ -114,9 +114,13 @@ class prankcall{
 }
 echo " \n";
 echo "-----------------------------------------|
-|      SPAN TELEPHONE UNLIMITED                |                        
+|      SPAM TELEPHONE UNLIMITED                |    
+|
+|      JANGAN LUPA SUBCRIBE CHANNEL GUA
+|
+|                   
 |      Athor     = Mr.hmei24 && Mr.money       |
-|      Update    = 07-January-2019             |     
+|      Youtube   = ID [ICA ¤ HMEI24]            |     
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
 echo " \n";
