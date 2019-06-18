@@ -1,5 +1,4 @@
-------------------------------------------------|             SPAM TELPON UNLIMETED            |
-------------------------------------------------
+
 |      Athor     = Mr.hmei24 && Mr.money       |
 |      Update    = 07-January-2019             |
 |      TooL Spam = Telpon    		       |
@@ -114,9 +113,10 @@ class prankcall{
 	}
 }
 echo " \n";
-echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Mr.hmei24 && Mr.money        |
-|      Update    = 07-January-2019             ||      TooL Spam = Telpon                      |
+echo "-----------------------------------------|
+|      SPAN TELEPHONE UNLIMITED                |                        
+|      Athor     = Mr.hmei24 && Mr.money       |
+|      Update    = 07-January-2019             |     
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
 echo " \n";
