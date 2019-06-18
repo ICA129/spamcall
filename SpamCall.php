@@ -1,10 +1,13 @@
-
+-----------------------------------------------|
+|      SPAM TELEPHONE UNLIMITED                |    
+|                                              |
+|      JANGAN LUPA SUBCRIBE CHANNEL GUA        |
+|                                              |
+|                                              |                 
 |      Athor     = Mr.hmei24 && Mr.money       |
-|      Update    = 07-January-2019             |
-|      TooL Spam = Telpon    		       |
-|      GitHub    = -			       |
+|      Youtube   = ID [ICA ¤ HMEI24]           |     
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
-------------------------------------------------
+-----------------------------------------------|
 
 <?php
 system('clear');
