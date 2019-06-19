@@ -118,11 +118,11 @@ class prankcall{
 echo " \n";
 echo "-----------------------------------------|
 |      SPAM TELEPHONE UNLIMITED                |    
-|                                              |
+|______________________________________________|                                              |
 |      JANGAN LUPA SUBCRIBE CHANNEL GUA        |
-|                                              |
+|______________________________________________|                                              |
 |                                              |                 
-|      Athor     = Mr.hmei24 && Mr.money       |
+|      Author     = Mr.hmei24 && Mr.money      |
 |      Youtube   = ID [ICA ¤ HMEI24]           |     
 |      Info      = Gunakan Dengan Bijak Yee ^_^|
 ------------------------------------------------\n";
