@@ -116,21 +116,34 @@ class prankcall{
 	}
 }
 echo " \n";
-echo "-----------------------------------------|
-|      SPAM TELEPHONE UNLIMITED                |    
-|______________________________________________|                                              |
-|      JANGAN LUPA SUBCRIBE CHANNEL GUA        |
-|______________________________________________|                                              |
-|                                              |                 
-|      Author     = Mr.hmei24 && Mr.money      |
-|      Youtube   = ID [ICA ¤ HMEI24]           |     
-|      Info      = Gunakan Dengan Bijak Yee ^_^|
-------------------------------------------------\n";
+echo " 
+============================================
+                      
+     ▇▇◤▔▔▔▔▔▔▔◥▇▇
+     ▇▇▏◥▇◣┊◢▇◤▕▇▇
+     ▇▇▏▃▆▅▎▅▆▃▕▇▇
+     ▇▇▏╱▔▕▎▔▔╲▕▇▇
+     ▇▇◣◣▃▅▎▅▃◢◢▇▇
+     ▇▇▇◣◥▅▅▅◤◢▇▇▇
+     ▇▇▇▇◣╲▇╱◢▇▇▇▇
+                                         
+ [+] SURVERYON MAIL SPAMMER [+]
+÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+ Spammer Telephone Unlimited
+÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+ Mod By      : Mr.Money / Tak Dianggap
+ Instagram   : @yudha2685
+ Thanks to   : ALL MEMBER TO SUPPORT ME
+ Team        : ISLAMIC CYBER ATTACKER
+ Github      : https://github.com/ICA129
+ Info        : Jangan pernah putus asa
+============================================\n";
 echo " \n";
 echo " \n";
 echo "________________________________________________\n";
 echo " \n";
 echo " \n";
+sleep(4)
 echo " ____                         ____      _ _
 / ___| _ __   __ _ _ __ ___  / ___|__ _| | |
 \___ \| '_ \ / _` | '_ ` _ \| |   / _` | | |
