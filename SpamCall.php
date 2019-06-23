@@ -127,7 +127,7 @@ echo "
      ▇▇▇◣◥▅▅▅◤◢▇▇▇
      ▇▇▇▇◣╲▇╱◢▇▇▇▇
                                          
- [+] SURVERYON MAIL SPAMMER [+]
+ [+] SURVERYON CALL SPAMMER [+]
 ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
  Spammer Telephone Unlimited
 ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
